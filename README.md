@@ -1,9 +1,10 @@
-Overview of Project:
+## Overview of Project:
  To show the the volume and return of 11 stocks in the year of 2017 and 2018 using VBA commands.
 
-Summary os results and comparison on codes
+## Summary of results and comparison on codes
 The data base used has 3012 rows which represents trnasactions by ticker and by day and 2 separate worksheet for each year (2017 and 2018). 
 After analysing the data, it is noted that the volume of transactions in 2018 increase by 4% compared to 2017.
+
 [Table comparison_collors.png](https://github.com/taislevens/Challenge_file/blob/main/Table%20comparison_collors.png)
 
 It was also possible to calculate the return of the stock on that year by dividing the ending price to the closing price.
